@@ -1,0 +1,29 @@
+{
+  "name": "api-modelo",
+  "version": "1.0.0",
+  "description": "Modelo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeydf/api-modelo.git"
+  },
+  "author": "Alexey DEV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexeydf/api-modelo/issues"
+  },
+  "homepage": "https://github.com/alexeydf/api-modelo#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "knex": "^3.1.0",
+    "mysql2": "^3.10.0",
+    "nodemon": "^3.1.2"
+  }
+}
